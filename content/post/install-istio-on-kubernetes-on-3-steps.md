@@ -1,6 +1,6 @@
 ---
 title: "Install Istio on Kubernetes on 3 steps"
-date: 2019-01-01T21:38:52+08:00
+date: 2018-12-01T21:38:52+08:00
 lastmod: 2017-08-28T21:41:52+08:00
 #menu: "main"
 weight: 50
